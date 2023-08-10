@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 16:59:28 +0800</lastBuildDate><atom:link href="https://wcloor.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 17:16:53 +0800</lastBuildDate><atom:link href="https://wcloor.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这是测试一下</title>
+      <link>https://wcloor.github.io/MyBlog/posts/test4/</link>
+      <pubDate>Thu, 10 Aug 2023 17:16:53 +0800</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/test4/</guid>
+      <description>#从前有个小姑娘叫小花，她非常喜欢绘画。一天，她在森林中遇到了一只说话的小兔子。小兔子告诉她，只要用魔法画笔绘制的画，就能实现一个愿望。小花高兴地拿起画笔，画了一串彩色气球。真的，气球飞上天空，带着小花和小兔子漂浮起来。他们看到美丽的云朵和闪耀的星星。小花感叹道：“这才是真正的魔法！”她决定利用魔法画笔，创造更多美好的事物，让世界充满幸福与希望。</description>
+    </item>
+    
     <item>
       <title>这是测试2</title>
       <link>https://wcloor.github.io/MyBlog/posts/test2/</link>
