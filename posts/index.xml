@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>这是测试2 on Wcloor博客</title>
     <link>https://wcloor.github.io/MyBlog/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in 这是测试2 on Wcloor博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 17:16:53 +0800</lastBuildDate><atom:link href="https://wcloor.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 16:59:28 +0800</lastBuildDate><atom:link href="https://wcloor.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这是测试一下</title>
+      <link>https://wcloor.github.io/MyBlog/posts/test7/</link>
+      <pubDate>Thu, 10 Aug 2023 17:16:54 +0800</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/test7/</guid>
+      <description>很久很久以前，有一个小村庄，村庄被郁郁葱葱的森林环绕着。这个小村庄里住着一个勇敢而善良的女孩，名叫小露。
+小露幼年时，曾经在森林中迷路过。无助的她正要哭泣时，一只小鸟飞到她身边，带领她穿越茂密的树林回到村庄。从那天起，小露与小鸟结下了深厚的友谊。
+一天，一个可怕的消息传来，村庄陷入了水灾，大家都被困在家中。小露决定去寻找帮助，但她需要通过那片危险的森林。小鸟对小露说：“我会一直陪伴在你身边，保护你的。”
+勇敢的小露踏上了前往村庄外的旅程，小鸟紧随其后。他们穿越浓雾弥漫的森林，遇到了猛兽和险恶的沼泽地，但都被小鸟的警觉和小露的勇气化解了。
+##终于，小露到达了一个山顶，她从山上看到远处有一条小溪。她立刻意识到，只要能够控制溪水的流动，村庄就能免受洪水的侵袭。
+小露操起她的魔法法杖，用勇气和智慧引导着溪水沿着新的路径流淌。她创造出了一条堤坝，成功地把溪水引导到安全的地方。村庄的人们得救了。 当小露回到村庄时，她被欢呼和掌声包围。大家都夸她勇敢而聪明。小露却谦虚地说：“是小鸟和我共同完成了它。”
+自此以后，小露和小鸟成为了村庄的英雄。他们的故事被传颂了很多年。小露也明白了，友谊和助人的精神是最宝贵的财富。从那以后，她决心用自己的力量保护森林和帮助那些需要帮助的人们。
+故事传下来，成为了这个小村庄的象征。每年，村庄都会举行一场盛大的庆典来纪念小露和小鸟的壮举，并讲述这个关于勇气、友情和奉献精神的动人故事。</description>
+    </item>
+    
     <item>
       <title>这是测试一下</title>
       <link>https://wcloor.github.io/MyBlog/posts/test4/</link>
@@ -14,6 +30,15 @@
       
       <guid>https://wcloor.github.io/MyBlog/posts/test4/</guid>
       <description>#从前有个小姑娘叫小花，她非常喜欢绘画。一天，她在森林中遇到了一只说话的小兔子。小兔子告诉她，只要用魔法画笔绘制的画，就能实现一个愿望。小花高兴地拿起画笔，画了一串彩色气球。真的，气球飞上天空，带着小花和小兔子漂浮起来。他们看到美丽的云朵和闪耀的星星。小花感叹道：“这才是真正的魔法！”她决定利用魔法画笔，创造更多美好的事物，让世界充满幸福与希望。</description>
+    </item>
+    
+    <item>
+      <title>这是测试2</title>
+      <link>https://wcloor.github.io/MyBlog/posts/test2-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Thu, 10 Aug 2023 16:59:28 +0800</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/test2-%E5%89%AF%E6%9C%AC/</guid>
+      <description>#测试2</description>
     </item>
     
     <item>
@@ -27,11 +52,55 @@
     
     <item>
       <title>这是测试1</title>
+      <link>https://wcloor.github.io/MyBlog/posts/test1-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Thu, 10 Aug 2023 16:40:52 +0800</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/test1-%E5%89%AF%E6%9C%AC/</guid>
+      <description>#这是测试内容</description>
+    </item>
+    
+    <item>
+      <title>这是测试1</title>
       <link>https://wcloor.github.io/MyBlog/posts/test1/</link>
       <pubDate>Thu, 10 Aug 2023 16:40:52 +0800</pubDate>
       
       <guid>https://wcloor.github.io/MyBlog/posts/test1/</guid>
-      <description>#这是测试内容</description>
+      <description>#这是测试内容 UTF-8 是一种用于编码文本的字符集，它使用多字节表示字符，可以支持包括中文在内的各种字符。而错误提示中提到的 &amp;ldquo;invalid trailing UTF-8 octet&amp;rdquo; 意味着此处结束的 UTF-8 字符不正确。
+可能的原因是在 YAML 元数据中的某个地方，有一个非法的字符或者格式不正确，导致无法解析。建议检查该文件的第1行第1个字符，确认其是否存在任何非法字符。如果有非法字符，可以尝试删除或修复它们，然后重新构建网站。另外，确保文件保存时使用了正确的编码方式（如 UTF-8）也是重要的。</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Quasimodo</title>
+      <link>https://wcloor.github.io/MyBlog/posts/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/chapter-5/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>https://wcloor.github.io/MyBlog/posts/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/chapter-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+    <item>
+      <title>这是测试一下</title>
+      <link>https://wcloor.github.io/MyBlog/posts/test8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wcloor.github.io/MyBlog/posts/test8/</guid>
+      <description>很久很久以前，有一个小村庄，村庄被郁郁葱葱的森林环绕着。这个小村庄里住着一个勇敢而善良的女孩，名叫小露。
+小露幼年时，曾经在森林中迷路过。无助的她正要哭泣时，一只小鸟飞到她身边，带领她穿越茂密的树林回到村庄。从那天起，小露与小鸟结下了深厚的友谊。
+一天，一个可怕的消息传来，村庄陷入了水灾，大家都被困在家中。小露决定去寻找帮助，但她需要通过那片危险的森林。小鸟对小露说：“我会一直陪伴在你身边，保护你的。”
+勇敢的小露踏上了前往村庄外的旅程，小鸟紧随其后。他们穿越浓雾弥漫的森林，遇到了猛兽和险恶的沼泽地，但都被小鸟的警觉和小露的勇气化解了。
+##终于，小露到达了一个山顶，她从山上看到远处有一条小溪。她立刻意识到，只要能够控制溪水的流动，村庄就能免受洪水的侵袭。
+小露操起她的魔法法杖，用勇气和智慧引导着溪水沿着新的路径流淌。她创造出了一条堤坝，成功地把溪水引导到安全的地方。村庄的人们得救了。 当小露回到村庄时，她被欢呼和掌声包围。大家都夸她勇敢而聪明。小露却谦虚地说：“是小鸟和我共同完成了它。”
+自此以后，小露和小鸟成为了村庄的英雄。他们的故事被传颂了很多年。小露也明白了，友谊和助人的精神是最宝贵的财富。从那以后，她决心用自己的力量保护森林和帮助那些需要帮助的人们。
+故事传下来，成为了这个小村庄的象征。每年，村庄都会举行一场盛大的庆典来纪念小露和小鸟的壮举，并讲述这个关于勇气、友情和奉献精神的动人故事。</description>
     </item>
     
   </channel>
